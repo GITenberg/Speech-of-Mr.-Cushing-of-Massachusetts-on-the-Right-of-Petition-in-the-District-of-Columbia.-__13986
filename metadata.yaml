@@ -1,0 +1,35 @@
+_repo: Speech-of-Mr.-Cushing-of-Massachusetts-on-the-Right-of-Petition-in-the-District-of-Columbia.-__13986
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cushing, Caleb
+    birthdate: 1800
+    deathdate: 1879
+    gutenberg_agent_id: '5314'
+    url: http://www.gutenberg.org/2009/agents/5314
+    wikipedia: http://en.wikipedia.org/wiki/Caleb_Cushing
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2004-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13986'
+  lccn: http://lccn.loc.gov/10034654
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- Speeches in Congress'
+- !lcsh 'Petition, Right of'
+- !lcsh 'Slavery -- Washington (D.C.)'
+- !lcc 'E300'
+title: 'Speech of Mr. Cushing, of Massachusetts, on the Right of Petition,
+
+  as Connected with Petitions for the Abolition of Slavery and the Slave Trade
+
+  in the District of Columbia. In The House Of Representatives, January 25, 1836.'
+url: http://www.gutenberg.org/ebooks/13986
