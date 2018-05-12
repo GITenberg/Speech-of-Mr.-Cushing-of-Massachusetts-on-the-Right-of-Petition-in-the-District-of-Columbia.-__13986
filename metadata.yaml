@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5314
     wikipedia: http://en.wikipedia.org/wiki/Caleb_Cushing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13986#Speech-of-Mr.-Cushing-of-Massachusetts-on-the-Right-of-Petition-in-the-District-of-Columbia.-_
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2004-11-09'
 gutenberg_type: Text
